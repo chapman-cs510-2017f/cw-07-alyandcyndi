@@ -1,6 +1,6 @@
 # CS510 CW 7
 
-**Author(s):** **CHANGME**
+**Author(s):** **Aly Baughman, Cynthia Parks**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-07-YOURNAME)
 
@@ -33,7 +33,7 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment was difficult, partially because it was the assignment when we were not present in class to ask questions as a group, however that did cause us to learn to communicate better while beginning to work on a project remotely.**
 
 ## Honor Pledge
 
@@ -44,4 +44,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Aly Baughman, Cynthia Parks**
