@@ -31,7 +31,7 @@ def julia(c, max=100):
         """
         n=1
         
-        while n < max;
+        while n < max:
             if abs(z) > 2:
                 return n
             else:
