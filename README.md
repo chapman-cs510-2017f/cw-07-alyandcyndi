@@ -35,6 +35,8 @@ Analyze in this section what you found useful about this assignment in your own 
 
 **This assignment was difficult, partially because it was the assignment when we were not present in class to ask questions as a group, however that did cause us to learn to communicate better while beginning to work on a project remotely.**
 
+**Instructor Note:** Definitely go back and fix your code! The payoff for visualizing the Julia sets is well worth it.
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
